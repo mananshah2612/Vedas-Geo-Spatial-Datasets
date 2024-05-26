@@ -1,1 +1,1 @@
-# Vedas-Geo-Spatial-Datasets
+npm install
